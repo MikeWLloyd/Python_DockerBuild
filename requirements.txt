@@ -68,8 +68,6 @@ jupyter-client==5.3.4
 jupyter-core==4.6.0
 jupyterlab==1.1.4
 jupyterlab-server==1.0.6
-Kivy==1.11.1
-Kivy-Garden==0.1.4
 kiwisolver==1.1.0
 lockfile==0.12.2
 lxml==4.5.2
