@@ -28,8 +28,6 @@ CrossMap==0.5.1
 cryptography==2.7
 cwltool==3.0.20200709181526
 cycler==0.10.0
-Cython==0.29.16
-cyvcf2==0.11.6
 decorator==4.4.0
 deepTools==3.3.1
 deeptoolsintervals==0.1.9
