@@ -144,7 +144,6 @@ Send2Trash==1.5.0
 shellescape==3.4.1
 six==1.15.0
 sklearn==0.0
-sorted-nearest==0.0.31
 soupsieve==1.9.2
 statsmodels==0.12.1
 sympy==1.4
