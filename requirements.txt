@@ -122,7 +122,6 @@ pyparsing==2.4.1.1
 PyQt5==5.14.1
 PyQt5-sip==12.7.0
 pyranges==0.0.79
-pyrle==0.0.31
 pyrsistent==0.15.4
 pysam==0.15.3
 PySocks==1.7.1
